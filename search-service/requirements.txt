@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pyjwt
+requests
+pytest
+numpy
+scikit-learn
+sentence-transformers
+pytesseract
+pillow
+pgvector

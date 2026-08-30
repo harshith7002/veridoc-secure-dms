@@ -1,0 +1,35 @@
+# Virtual Environments
+venv/
+**/venv/
+.venv/
+**/.venv/
+env/
+ENV/
+
+# Python Cache & Artifacts
+__pycache__/
+/**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+**/.pytest_cache/
+*.log
+server.log
+
+# Node & Frontend
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.oxlintrc.json
+
+# Databases & Local Storage
+*.db
+*.sqlite3
+**/blob_storage/*
+!**/blob_storage/.gitkeep
+
+# Environment & Secrets
+.env
+*.env
+.env.local

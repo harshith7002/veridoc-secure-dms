@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pyjwt
+cryptography
+boto3
+python-multipart
+requests
+pytest
+moto[s3]

@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic[email]
+bcrypt
+pyjwt
+pyotp
+pytest
+requests
